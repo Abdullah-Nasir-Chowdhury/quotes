@@ -1,6 +1,12 @@
 # quotes
 
-A new Flutter project.
+A flutter application where you can delete quotes. That's it. Only good thing about this is the modular code. 
+
+<p align="center">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/quotes/blob/master/screenshot1.png?raw=true" alt="Image 1" width="150" style="margin-right: 20px;">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/quotes/blob/master/screenshot2.png?raw=true" alt="Image 2" width="150" style="margin-left: 20px;">
+</p>
+
 
 ## Getting Started
 
