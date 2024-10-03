@@ -5,6 +5,7 @@ A flutter application where you can delete quotes. That's it. Only good thing ab
 <p align="center">
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/quotes/blob/master/screenshot1.png?raw=true" alt="Image 1" width="150" style="margin-right: 20px;">
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/quotes/blob/master/screenshot2.png?raw=true" alt="Image 2" width="150" style="margin-left: 20px;">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/quotes/blob/master/screenshot3.png?raw=true" alt="Image 3" width="150" style="margin-right: 20px;">
 </p>
 
 
